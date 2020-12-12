@@ -32,3 +32,4 @@ source "target/sdk/Config.in"
 source "target/toolchain/Config.in"
 
 source "tmp/.config-package.in"
+
